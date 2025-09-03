@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 github_super_report.py
-A powerful script that fetches all public repositories of a GitHub ,
+A powerful script that fetches all public repositories of a GitHub user,
 gathers rich metadata, optionally clones repos, computes summaries, builds
 charts, and writes:
   - an Excel workbook with multiple sheets
