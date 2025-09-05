@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """
 github_super_report.py
 A powerful script that fetches all public repositories of a GitHub user,
