@@ -10,7 +10,7 @@ charts, and writes:
   - a simple HTML dashboard with embedded charts
 
 Features:
-  - Pagination support for GitHub 
+  - Pagination support for GitHub API
   - Optional personal access token to increase rate limits
   - Threaded fetching for contributors and releases
   - Rate-limit awareness (inspects headers and sleeps if necessary)
