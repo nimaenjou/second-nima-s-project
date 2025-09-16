@@ -5,7 +5,7 @@ A
 A powerful script that fetches all public repositories of a GitHub user,
 gathers rich metadata, optionally clones repos, computes summaries, builds
 charts, and writes:
-  - an Excel workbook with multiple 
+  - an Excl workbook with multiple 
   - a Markdown summary README
   - a simple HTML dashboard with embedded charts
 
