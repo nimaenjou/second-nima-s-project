@@ -19,7 +19,7 @@ Features:
   - Charts using matplotlib (no custom colors set)
   - Graceful error handling and logging
 
-Usage:ah yeah
+Usage:ah 
   python github_super_report.py --username torvalds --token YOUR_TOKEN --output-dir ./out --clone
 
 Dependencies:
